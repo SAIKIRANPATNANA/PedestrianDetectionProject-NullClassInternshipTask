@@ -1,0 +1,2 @@
+# PedestrianDetectionProject-NullClassInternshipTask
+A DEEP DIVE INTO YOLOV7 THROUGH PEDESTRIAN DETECTION PROJECT.
