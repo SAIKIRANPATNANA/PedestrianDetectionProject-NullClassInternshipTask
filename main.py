@@ -33,7 +33,7 @@ if uploaded_file:
     
     output_image_path = os.path.join(output_dir, "test_image.jpg")
     if os.path.exists(output_image_path):
-        st.image(output_image_path, caption="Traffic Sign Detection Result", use_column_width=True)
+        st.image(output_image_path, caption="Pedestrian Detection Result", use_column_width=True)
     else:
         st.write("Error: Output image not found")
     
