@@ -12,7 +12,7 @@ def delete_folder(folder_path):
     except:
         return
 
-model_path = 'yolov8_roadsign.pt'
+model_path = 'best.pt'
 output_dir = 'runs/detect/predict'
 
 st.set_page_config(page_title='Pedestrian Detection Project', layout='centered')
